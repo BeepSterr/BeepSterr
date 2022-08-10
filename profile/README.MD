@@ -14,7 +14,7 @@ My personal website hosted on [NeoCities](https://neocities.org/)
 Small file sharing service for me and some friends :)
 #### [🟩 awoo.to](https://awoo.to)
 
-Link shortener, Currently borked
+Link shortener
 
 ## Builds
 ### [beepsdev/BetterKeepInventory](https://github.com/beepsdev/BetterKeepInventory)

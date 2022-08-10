@@ -28,9 +28,9 @@ export class Sites extends Section {
 
         // My small file upload server
         {
-            url: "https://awoo.to",
+            url: "https://awoo.to/shorten",
             name: "awoo.to",
-            description: "Link shortener, Currently borked",
+            description: "Link shortener",
             link: "https://awoo.to"
         }
         

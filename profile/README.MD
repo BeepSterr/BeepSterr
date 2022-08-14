@@ -9,17 +9,17 @@ If any of them are red. Please let me know :)
 #### [🟩 Personal Website](https://beeps.dev)
 
 My personal website hosted on [NeoCities](https://neocities.org/)
-#### [🟩 awoo.download](https://awoo.download)
+#### 🟥 awoo.download
 
 Small file sharing service for me and some friends :)
-#### [🟩 awoo.to](https://awoo.to/shorten)
+#### 🟥 awoo.to
 
 Link shortener
 
 ## Builds
 ### [beepsdev/BetterKeepInventory](https://github.com/beepsdev/BetterKeepInventory)
 
-`2 days ago` [Download Build](https://github.com/beepsdev/BetterKeepInventory/suites/7740729029/artifacts/324740986)
+`4 days ago` [Download Build](https://github.com/beepsdev/BetterKeepInventory/suites/7740729029/artifacts/324740986)
 ### [beepsdev/FiniteNetherite](https://github.com/beepsdev/FiniteNetherite)
 
 `3 months ago` [Download Build](https://github.com/beepsdev/FiniteNetherite/suites/6362450050/artifacts/229833502)

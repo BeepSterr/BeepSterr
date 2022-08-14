@@ -12,7 +12,7 @@
   jobs:
 
     update_readme:
-      runs-on: [self-hosted]
+      runs-on: ubuntu-latest
       steps:
 
       - name: Clone Repo

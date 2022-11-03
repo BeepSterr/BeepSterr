@@ -19,7 +19,7 @@ Link shortener
 ## Builds
 ### [beepsdev/BetterKeepInventory](https://github.com/beepsdev/BetterKeepInventory)
 
-`22 minutes ago` [Download Build](https://github.com/beepsdev/BetterKeepInventory/suites/9102519987/artifacts/422076470)
+`32 minutes ago` [Download Build](https://github.com/beepsdev/BetterKeepInventory/suites/9102519987/artifacts/422076470)
 ### [beepsdev/FiniteNetherite](https://github.com/beepsdev/FiniteNetherite)
 
 `6 months ago` [Download Build](https://github.com/beepsdev/FiniteNetherite/suites/6362450050/artifacts/229833502)

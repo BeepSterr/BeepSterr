@@ -12,7 +12,7 @@ My personal website hosted on [NeoCities](https://neocities.org/)
 #### [🟩 awoo.download](https://awoo.download)
 
 Small file sharing service for me and some friends :)
-#### 🟥 awoo.to
+#### [🟩 awoo.to](https://awoo.to/shorten)
 
 Link shortener
 

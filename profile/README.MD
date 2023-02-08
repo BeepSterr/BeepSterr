@@ -6,7 +6,7 @@ Below is a list of sites I own, and their status.
 If any of them are red. Please let me know :)
 
 
-#### 🟥 Personal Website
+#### [🟩 Personal Website](https://beeps.dev)
 
 My personal website hosted on [NeoCities](https://neocities.org/)
 #### [🟩 awoo.download](https://awoo.download)
@@ -19,7 +19,7 @@ Link shortener
 ## Builds
 ### [beepsdev/BetterKeepInventory](https://github.com/beepsdev/BetterKeepInventory)
 
-`2 days ago` [Download Build](https://github.com/beepsdev/BetterKeepInventory/suites/10795132834/artifacts/542835315)
+`3 days ago` [Download Build](https://github.com/beepsdev/BetterKeepInventory/suites/10795132834/artifacts/542835315)
 ### [beepsdev/FiniteNetherite](https://github.com/beepsdev/FiniteNetherite)
 
 `9 months ago` [Download Build](https://github.com/beepsdev/FiniteNetherite/suites/6362450050/artifacts/229833502)

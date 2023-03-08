@@ -9,10 +9,10 @@ If any of them are red. Please let me know :)
 #### [🟩 Personal Website](https://beeps.dev)
 
 My personal website hosted on [NeoCities](https://neocities.org/)
-#### [🟩 awoo.download](https://awoo.download)
+#### [🟨 awoo.download](https://awoo.download) `503 - Service Unavailable`
 
 Small file sharing service for me and some friends :)
-#### [🟩 awoo.to](https://awoo.to/shorten)
+#### [🟨 awoo.to](https://awoo.to/shorten) `503 - Service Unavailable`
 
 Link shortener
 

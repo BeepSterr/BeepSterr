@@ -6,7 +6,7 @@ Below is a list of sites I own, and their status.
 If any of them are red. Please let me know :)
 
 
-#### [🟩 Personal Website](https://beeps.dev)
+#### [🟨 Personal Website](https://beeps.dev) `403 - Forbidden`
 
 My personal website hosted on [NeoCities](https://neocities.org/)
 #### [🟩 awoo.download](https://awoo.download)

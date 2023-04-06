@@ -9,17 +9,17 @@ If any of them are red. Please let me know :)
 #### [🟩 Personal Website](https://beeps.dev)
 
 My personal website hosted on [NeoCities](https://neocities.org/)
-#### [🟩 awoo.download](https://awoo.download)
+#### [🟨 awoo.download](https://awoo.download) `502 - Bad Gateway`
 
 Small file sharing service for me and some friends :)
-#### [🟩 awoo.to](https://awoo.to/shorten)
+#### [🟨 awoo.to](https://awoo.to/shorten) `502 - Bad Gateway`
 
 Link shortener
 
 ## Builds
 ### [beepsdev/BetterKeepInventory](https://github.com/beepsdev/BetterKeepInventory)
 
-`6 hours ago` [Download Build](https://github.com/beepsdev/BetterKeepInventory/suites/12064191928/artifacts/634729966)
+`7 hours ago` [Download Build](https://github.com/beepsdev/BetterKeepInventory/suites/12064191928/artifacts/634729966)
 ### [beepsdev/FiniteNetherite](https://github.com/beepsdev/FiniteNetherite)
 
 `a year ago` [Download Build](https://github.com/beepsdev/FiniteNetherite/suites/6362450050/artifacts/229833502)

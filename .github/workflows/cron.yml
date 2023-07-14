@@ -15,12 +15,6 @@
     update_readme:
       runs-on: ubuntu-latest
       steps:
-      
-      - name: Cancel All Previous Workflow Runs
-        uses: everphone-gmbh/cancel-previous-workflows@v5.1
-        with:
-            token: ${{ secrets.GITHUB_TOKEN }}
-            workflow: cron.yml
 
       - name: Clone Repo
         uses: actions/checkout@v3

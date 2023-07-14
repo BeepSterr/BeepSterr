@@ -18,20 +18,33 @@ export class Sites extends Section {
             link: "https://beeps.dev"
         },
 
-        // My small file upload server
         {
-            url: "https://awoo.download",
-            name: "awoo.download",
-            description: "Small file sharing service for me and some friends :)",
-            link: "https://awoo.download"
+            url: "https://awoo.industries",
+            name: "Awoo Industries",
+            description: "File sharing & Misc utilities",
+            link: "https://awoo.industries"
+        },
+
+        {
+            url: "https://awoo.studio",
+            name: "awoo.studio",
+            description: "Mastodon Instance",
+            link: "https://awoo.studio"
+        },
+
+        {
+            url: "https://feditester.beeps.dev",
+            name: "Feditester",
+            description: "Tool to test how federated your instance is",
+            link: "https://feditester.beeps.dev"
         },
 
         // My small file upload server
         {
-            url: "https://awoo.to",
-            name: "awoo.to",
-            description: "Link shortener",
-            link: "https://awoo.to/shorten"
+            url: "https://bunnygen.awoo.industries",
+            name: "Bunnygen",
+            description: "Tool to build your own custom version of my fursona~",
+            link: "https://bunnygen.awoo.industries"
         }
         
 

@@ -5,7 +5,7 @@ import {Octokit} from "octokit";
 import * as path from "path";
 import { fileURLToPath } from 'url';
 
-const OUTPUT_FILE = process.env.output ?? '../../profile/README.MD'
+const OUTPUT_FILE = process.env.output ?? '../../README.MD'
 const INPUT_FILE = process.env.output ?? './template.md'
 const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 const working_dir = fileURLToPath(import.meta.url);

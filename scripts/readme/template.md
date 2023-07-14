@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hiya Traveler! 👋
+I'm Beeps. I Write stuff whenever I need it, Like [BetterKeepInventory](https://github.com/Awoo-Industries/BetterKeepInventory)
 
-This organization hosts projects by [@beepsterr](https://github.com/BeepSterr)
-## Service Status
-Below is a list of sites I own, and their status. 
-If any of them are red. Please let me know :)
-
-
+## Web Services
+I host a couple of web services, Below you can see their status (Updated every ~10 Minutes)
 {{#each Sites}}
 {{this}}
 {{/each}}
 
 ## Builds
+Builds for my Spigot plugins can be found below:
+
 {{#each Builds}}
 {{this}}
 {{/each}}

@@ -7,12 +7,18 @@ I host a couple of web services, Below you can see their status (Updated every ~
 #### [🟩 Personal Website](https://beeps.dev)
 
 My personal website hosted on [NeoCities](https://neocities.org/)
-#### [🟩 awoo.download](https://awoo.download)
+#### [🟩 Awoo Industries](https://awoo.industries)
 
-Small file sharing service for me and some friends :)
-#### [🟩 awoo.to](https://awoo.to/shorten)
+File sharing & Misc utilities
+#### [🟩 awoo.studio](https://awoo.studio)
 
-Link shortener
+Mastodon Instance
+#### [🟨 Feditester](https://feditester.beeps.dev) `522 - `
+
+Tool to test how federated your instance is
+#### [🟩 Bunnygen](https://bunnygen.awoo.industries)
+
+Tool to build your own custom version of my fursona~
 
 ## Builds
 Builds for my Spigot plugins can be found below:

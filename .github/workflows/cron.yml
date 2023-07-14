@@ -10,6 +10,8 @@
 
       workflow_dispatch:
 
+  permissions: write-all
+  
   jobs:
 
     update_readme:

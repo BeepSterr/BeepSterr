@@ -7,16 +7,16 @@ I host a couple of web services, Below you can see their status (Updated every ~
 #### [🟩 Personal Website](https://beeps.dev)
 
 My personal website hosted on [NeoCities](https://neocities.org/)
-#### [🟨 Awoo Industries](https://awoo.industries) `522 - `
+#### [🟨 Awoo Industries](https://awoo.industries) `502 - Bad Gateway`
 
 File sharing & Misc utilities
-#### [🟨 awoo.studio](https://awoo.studio) `522 - `
+#### [🟨 awoo.studio](https://awoo.studio) `503 - Service Unavailable`
 
 Mastodon Instance
 #### [🟨 Feditester](https://feditester.beeps.dev) `522 - `
 
 Tool to test how federated your instance is
-#### [🟨 Bunnygen](https://bunnygen.awoo.industries) `522 - `
+#### [🟨 Bunnygen](https://bunnygen.awoo.industries) `502 - Bad Gateway`
 
 Tool to build your own custom version of my fursona~
 

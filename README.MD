@@ -7,16 +7,16 @@ I host a couple of web services, Below you can see their status (Updated every ~
 #### [🟩 Personal Website](https://beeps.dev)
 
 My personal website hosted on [NeoCities](https://neocities.org/)
-#### [🟩 Awoo Industries](https://awoo.industries)
+#### [🟨 Awoo Industries](https://awoo.industries) `522 - `
 
 File sharing & Misc utilities
-#### [🟩 awoo.studio](https://awoo.studio)
+#### [🟨 awoo.studio](https://awoo.studio) `522 - `
 
 Mastodon Instance
 #### [🟨 Feditester](https://feditester.beeps.dev) `522 - `
 
 Tool to test how federated your instance is
-#### [🟩 Bunnygen](https://bunnygen.awoo.industries)
+#### [🟨 Bunnygen](https://bunnygen.awoo.industries) `522 - `
 
 Tool to build your own custom version of my fursona~
 
@@ -25,7 +25,7 @@ Builds for my Spigot plugins can be found below:
 
 ### [beepsdev/BetterKeepInventory](https://github.com/beepsdev/BetterKeepInventory)
 
-`10 hours ago` [Download Build](https://github.com/beepsdev/BetterKeepInventory/suites/14340589652/artifacts/807307746)
+`11 hours ago` [Download Build](https://github.com/beepsdev/BetterKeepInventory/suites/14340589652/artifacts/807307746)
 ### [beepsdev/FiniteNetherite](https://github.com/beepsdev/FiniteNetherite)
 
 `a year ago` [Download Build](https://github.com/beepsdev/FiniteNetherite/suites/6362450050/artifacts/229833502)

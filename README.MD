@@ -25,7 +25,7 @@ Builds for my Spigot plugins can be found below:
 
 ### [beepsdev/BetterKeepInventory](https://github.com/beepsdev/BetterKeepInventory)
 
-`4 days ago` [Download Build](https://github.com/beepsdev/BetterKeepInventory/suites/14340589652/artifacts/807307746)
+`7 minutes ago` [Download Build](https://github.com/beepsdev/BetterKeepInventory/suites/14461975095/artifacts/816786610)
 ### [beepsdev/FiniteNetherite](https://github.com/beepsdev/FiniteNetherite)
 
 `a year ago` [Download Build](https://github.com/beepsdev/FiniteNetherite/suites/6362450050/artifacts/229833502)

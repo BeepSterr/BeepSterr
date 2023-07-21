@@ -4,7 +4,7 @@ I'm Beeps. I Write stuff whenever I need it, Like [BetterKeepInventory](https://
 ## Web Services
 I host a couple of web services, Below you can see their status (Updated every ~10 Minutes)
 
-#### 🟥 Personal Website
+#### [🟩 Personal Website](https://beeps.dev)
 
 My personal website hosted on [NeoCities](https://neocities.org/)
 #### [🟩 Awoo Industries](https://awoo.industries)

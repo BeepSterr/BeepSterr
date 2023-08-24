@@ -13,7 +13,7 @@ File sharing & Misc utilities
 #### [🟩 awoo.studio](https://awoo.studio)
 
 Mastodon Instance
-#### [🟨 Feditester](https://feditester.beeps.dev) `502 - Bad Gateway`
+#### [🟨 Feditester](https://feditester.beeps.dev) `522 - `
 
 Tool to test how federated your instance is
 #### [🟨 Bunnygen](https://bunnygen.awoo.industries) `404 - Not Found`
@@ -25,7 +25,7 @@ Builds for my Spigot plugins can be found below:
 
 ### [beepsdev/BetterKeepInventory](https://github.com/beepsdev/BetterKeepInventory)
 
-`15 hours ago` [Download Build](https://github.com/beepsdev/BetterKeepInventory/suites/15424597873/artifacts/880712657)
+`16 hours ago` [Download Build](https://github.com/beepsdev/BetterKeepInventory/suites/15424597873/artifacts/880712657)
 ### [beepsdev/FiniteNetherite](https://github.com/beepsdev/FiniteNetherite)
 
 `a year ago` [Download Build](https://github.com/beepsdev/FiniteNetherite/suites/6362450050/artifacts/229833502)

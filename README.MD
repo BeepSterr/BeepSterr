@@ -16,7 +16,7 @@ Mastodon Instance
 #### [🟨 Feditester](https://feditester.beeps.dev) `522 - `
 
 Tool to test how federated your instance is
-#### [🟨 Bunnygen](https://bunnygen.awoo.industries) `404 - Not Found`
+#### [🟩 Bunnygen](https://bunnygen.awoo.industries)
 
 Tool to build your own custom version of my fursona~
 

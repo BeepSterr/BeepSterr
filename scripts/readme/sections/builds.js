@@ -8,12 +8,12 @@ export class Builds extends Section {
 
     static repos = [
         {
-            owner: 'beepsdev',
+            owner: 'Awoo-industries',
             repo: 'BetterKeepInventory',
             workflow_id: "build.yml"
         },
         {
-            owner: 'beepsdev',
+            owner: 'Awoo-industries',
             repo: 'FiniteNetherite',
             workflow_id: "build.yml"
         }

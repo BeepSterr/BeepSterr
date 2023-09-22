@@ -23,10 +23,10 @@ Tool to build your own custom version of my fursona~
 ## Builds
 Builds for my Spigot plugins can be found below:
 
-### [beepsdev/BetterKeepInventory](https://github.com/beepsdev/BetterKeepInventory)
+### [Awoo-industries/BetterKeepInventory](https://github.com/Awoo-industries/BetterKeepInventory)
 
-`2 days ago` [Download Build](https://github.com/beepsdev/BetterKeepInventory/suites/16270663553/artifacts/928846618)
-### [beepsdev/FiniteNetherite](https://github.com/beepsdev/FiniteNetherite)
+`4 days ago` [Download Build](https://github.com/Awoo-industries/BetterKeepInventory/suites/16270663553/artifacts/928846618)
+### [Awoo-industries/FiniteNetherite](https://github.com/Awoo-industries/FiniteNetherite)
 
-`a year ago` [Download Build](https://github.com/beepsdev/FiniteNetherite/suites/6362450050/artifacts/229833502)
+`2 minutes ago` [Download Build](https://github.com/Awoo-industries/FiniteNetherite/suites/16460560295/artifacts/940707951)
 

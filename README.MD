@@ -28,5 +28,5 @@ Builds for my Spigot plugins can be found below:
 `7 days ago` [Download Build](https://github.com/Awoo-industries/BetterKeepInventory/suites/16270663553/artifacts/928846618)
 ### [Awoo-industries/FiniteNetherite](https://github.com/Awoo-industries/FiniteNetherite)
 
-`2 days ago` [Download Build](https://github.com/Awoo-industries/FiniteNetherite/suites/16460560295/artifacts/940707951)
+`3 days ago` [Download Build](https://github.com/Awoo-industries/FiniteNetherite/suites/16460560295/artifacts/940707951)
 

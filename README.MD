@@ -13,7 +13,7 @@ File sharing & Misc utilities
 #### [🟩 awoo.studio](https://awoo.studio)
 
 Mastodon Instance
-#### [🟨 Feditester](https://feditester.beeps.dev) `502 - Bad Gateway`
+#### [🟨 Feditester](https://feditester.beeps.dev) `522 - `
 
 Tool to test how federated your instance is
 #### [🟩 Bunnygen](https://bunnygen.awoo.industries)

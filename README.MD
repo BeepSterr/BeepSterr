@@ -10,7 +10,7 @@ My personal website hosted on [NeoCities](https://neocities.org/)
 #### [🟩 Awoo Industries](https://awoo.industries)
 
 File sharing & Misc utilities
-#### [🟨 awoo.studio](https://awoo.studio) `503 - Service Unavailable`
+#### [🟩 awoo.studio](https://awoo.studio)
 
 Mastodon Instance
 #### [🟨 Feditester](https://feditester.beeps.dev) `522 - `

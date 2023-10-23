@@ -16,7 +16,7 @@ Mastodon Instance
 #### [🟨 Feditester](https://feditester.beeps.dev) `503 - Service Unavailable`
 
 Tool to test how federated your instance is
-#### [🟨 Bunnygen](https://bunnygen.awoo.industries) `521 - `
+#### [🟨 Bunnygen](https://bunnygen.awoo.industries) `522 - `
 
 Tool to build your own custom version of my fursona~
 

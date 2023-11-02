@@ -7,7 +7,7 @@ I host a couple of web services, Below you can see their status (Updated every ~
 #### [🟩 Personal Website](https://beeps.dev)
 
 My personal website hosted on [NeoCities](https://neocities.org/)
-#### 🟥 Awoo Industries
+#### [🟩 Awoo Industries](https://awoo.industries)
 
 File sharing & Misc utilities
 #### [🟩 awoo.studio](https://awoo.studio)

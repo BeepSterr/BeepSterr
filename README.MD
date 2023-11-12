@@ -4,7 +4,7 @@ I'm Beeps. I Write stuff whenever I need it, Like [BetterKeepInventory](https://
 ## Web Services
 I host a couple of web services, Below you can see their status (Updated every ~10 Minutes)
 
-#### [🟩 Personal Website](https://beeps.dev)
+#### 🟥 Personal Website
 
 My personal website hosted on [NeoCities](https://neocities.org/)
 #### [🟩 Awoo Industries](https://awoo.industries)
@@ -13,7 +13,7 @@ File sharing & Misc utilities
 #### [🟩 awoo.studio](https://awoo.studio)
 
 Mastodon Instance
-#### [🟨 Feditester](https://feditester.beeps.dev) `503 - Service Unavailable`
+#### 🟥 Feditester
 
 Tool to test how federated your instance is
 #### [🟩 Lunega Custom Order](https://order.lunega.net)

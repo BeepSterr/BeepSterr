@@ -41,10 +41,10 @@ export class Sites extends Section {
 
         // My small file upload server
         {
-            url: "https://bunnygen.awoo.industries",
-            name: "Bunnygen",
+            url: "https://order.lunega.net",
+            name: "Lunega Custom Order",
             description: "Tool to build your own custom version of my fursona~",
-            link: "https://bunnygen.awoo.industries"
+            link: "https://order.lunega.net"
         }
         
 

@@ -16,7 +16,7 @@ Mastodon Instance
 #### 🟥 Feditester
 
 Tool to test how federated your instance is
-#### [🟩 Lunega Custom Order](https://order.lunega.net)
+#### 🟥 Lunega Custom Order
 
 Tool to build your own custom version of my fursona~
 

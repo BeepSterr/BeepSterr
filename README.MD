@@ -7,7 +7,7 @@ I host a couple of web services, Below you can see their status (Updated every ~
 #### 🟥 Personal Website
 
 My personal website hosted on [NeoCities](https://neocities.org/)
-#### [🟩 Awoo Industries](https://awoo.industries)
+#### [🟨 Awoo Industries](https://awoo.industries) `500 - Internal Server Error`
 
 File sharing & Misc utilities
 #### [🟩 awoo.studio](https://awoo.studio)

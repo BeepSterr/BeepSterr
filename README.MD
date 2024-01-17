@@ -7,7 +7,7 @@ I host a couple of web services, Below you can see their status (Updated every ~
 #### 🟥 Personal Website
 
 My personal website hosted on [NeoCities](https://neocities.org/)
-#### [🟨 Awoo Industries](https://awoo.industries) `500 - Internal Server Error`
+#### [🟩 Awoo Industries](https://awoo.industries)
 
 File sharing & Misc utilities
 #### [🟩 awoo.studio](https://awoo.studio)
@@ -16,7 +16,7 @@ Mastodon Instance
 #### 🟥 Feditester
 
 Tool to test how federated your instance is
-#### [🟨 Lunega Custom Order](https://order.lunega.net) `500 - Internal Server Error`
+#### [🟩 Lunega Custom Order](https://order.lunega.net)
 
 Tool to build your own custom version of my fursona~
 

@@ -12,9 +12,9 @@ export class Sites extends Section {
     static list = [
 
         {
-            url: "https://beeps.dev",
+            url: "https://beepsterr.com",
             name: "Personal Website",
-            description: "My personal website hosted on [NeoCities](https://neocities.org/)",
+            description: "My personal website",
             link: "https://beeps.dev"
         },
 

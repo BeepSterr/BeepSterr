@@ -15,7 +15,7 @@ export class Sites extends Section {
             url: "https://beepsterr.com",
             name: "Personal Website",
             description: "My personal website",
-            link: "https://beeps.dev"
+            link: "https://beepsterr.com"
         },
 
         {

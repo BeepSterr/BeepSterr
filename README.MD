@@ -28,5 +28,5 @@ Builds for my Spigot plugins can be found below:
 Build unavailable...
 ### [Awoo-industries/FiniteNetherite](https://github.com/Awoo-industries/FiniteNetherite)
 
-`6 hours ago` [Download Build](https://github.com/Awoo-industries/FiniteNetherite/suites/28161628705/artifacts/1910000936)
+`7 hours ago` [Download Build](https://github.com/Awoo-industries/FiniteNetherite/suites/28161628705/artifacts/1910000936)
 

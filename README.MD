@@ -7,7 +7,7 @@ I host a couple of web services, Below you can see their status (Updated every ~
 #### [🟩 Personal Website](https://beepsterr.com)
 
 My personal website
-#### [🟩 Awoo Industries](https://awoo.industries)
+#### 🟥 Awoo Industries
 
 File sharing & Misc utilities
 #### [🟨 awoo.studio](https://awoo.studio) `522 - `

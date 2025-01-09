@@ -10,7 +10,7 @@ My personal website
 #### [🟩 Awoo Industries](https://awoo.industries)
 
 File sharing & Misc utilities
-#### [🟨 awoo.studio](https://awoo.studio) `502 - Bad Gateway`
+#### [🟨 awoo.studio](https://awoo.studio) `522 - `
 
 Mastodon Instance
 #### 🟥 Feditester

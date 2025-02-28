@@ -4,13 +4,13 @@ I'm Beeps. I Write stuff whenever I need it, Like [BetterKeepInventory](https://
 ## Web Services
 I host a couple of web services, Below you can see their status (Updated every ~10 Minutes)
 
-#### [🟩 Personal Website](https://beepsterr.com)
+#### 🟥 Personal Website
 
 My personal website
 #### [🟩 Awoo Industries](https://awoo.industries)
 
 File sharing & Misc utilities
-#### [🟨 awoo.studio](https://awoo.studio) `522 - `
+#### [🟨 awoo.studio](https://awoo.studio) `522 - <none>`
 
 Mastodon Instance
 #### 🟥 Feditester

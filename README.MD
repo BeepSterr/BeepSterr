@@ -10,7 +10,7 @@ My personal website
 #### [🟩 Awoo Industries](https://awoo.industries)
 
 File sharing & Misc utilities
-#### [🟨 awoo.studio](https://awoo.studio) `503 - Service Unavailable`
+#### [🟨 awoo.studio](https://awoo.studio) `526 - `
 
 Mastodon Instance
 #### 🟥 Feditester

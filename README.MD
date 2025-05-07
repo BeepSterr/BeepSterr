@@ -10,7 +10,7 @@ My personal website
 #### [🟩 Awoo Industries](https://awoo.industries)
 
 File sharing & Misc utilities
-#### [🟨 awoo.studio](https://awoo.studio) `526 - <none>`
+#### [🟨 awoo.studio](https://awoo.studio) `522 - <none>`
 
 Mastodon Instance
 #### 🟥 Feditester

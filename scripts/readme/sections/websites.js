@@ -12,40 +12,25 @@ export class Sites extends Section {
     static list = [
 
         {
-            url: "https://beepsterr.com",
+            url: "https://leafcat.live",
             name: "Personal Website",
             description: "My personal website",
             link: "https://beepsterr.com"
         },
 
         {
-            url: "https://awoo.industries",
-            name: "Awoo Industries",
-            description: "File sharing & Misc utilities",
-            link: "https://awoo.industries"
+            url: "https://pictoask.net",
+            name: "PictoASK!",
+            description: "A Q&A Website with a twist!",
+            link: "https://pictoask.net"
         },
 
         {
-            url: "https://awoo.studio",
-            name: "awoo.studio",
-            description: "Mastodon Instance",
-            link: "https://awoo.studio"
+            url: "https://barking.party",
+            name: "BlueSky Handle Registrar",
+            description: "Claim a funny or neat bluesky handle from a set of my domains!",
+            link: "https://barking.party"
         },
-
-        {
-            url: "https://feditester.beeps.dev",
-            name: "Feditester",
-            description: "Tool to test how federated your instance is",
-            link: "https://feditester.beeps.dev"
-        },
-
-        // My small file upload server
-        {
-            url: "https://order.lunega.net",
-            name: "Lunega Custom Order",
-            description: "Tool to build your own custom version of my fursona~",
-            link: "https://order.lunega.net"
-        }
         
 
     ]

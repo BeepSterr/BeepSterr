@@ -1,16 +1,21 @@
-## Hiya Traveler! 👋
-I'm Beeps. I Write stuff whenever I need it, Like [BetterKeepInventory](https://github.com/Awoo-Industries/BetterKeepInventory)
 
-## Web Services
-I host a couple of web services, Below you can see their status (Updated every ~10 Minutes)
+<p align="center">
+  <img width="250" src="/assets/wave.png">
+</p>
 
+<p align="center">
+    ➡️ <a href="https://leafcat.live/ttv">Twitch</a> |
+    <a href="https://leafcat.live/yt">YouTube</a> |
+    <a href="https://bsky.app/profile/did:plc:fuos6tklyozmefygjota4enw">BlueSky</a> |
+    <a href="https://leafcat.live/discord">Discord</a> ⬅️
+</p>
+
+## Things
 {{#each Sites}}
 {{this}}
 {{/each}}
 
-## Builds
-Builds for my Spigot plugins can be found below:
-
+## Bobs
 {{#each Builds}}
 {{this}}
 {{/each}}

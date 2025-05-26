@@ -28,8 +28,20 @@ export class Sites extends Section {
         {
             url: "https://barking.party",
             name: "BlueSky Handle Registrar",
-            description: "Claim a funny or neat bluesky handle from a set of my domains!",
-            link: "https://barking.party"
+            description: "Serving {{count}} profiles with custom BlueSky handles!",
+            link: "https://barking.party",
+            extra_data: async function(){
+                const response = await fetch("https://barking.party/handles");
+                const data = await response.json();
+                const set = new Set();
+                for(let handle of data.handles){
+                    set.add(handle.did);
+                }
+
+                return {
+                    count: set.size
+                }
+            }
         },
         
 
@@ -40,6 +52,7 @@ export class Sites extends Section {
     async fetchData() {
 
         for (const site of Sites.list) {
+            console.log(`Processing.... ${site.name}`)
             let x = performance.now();
             try{
                 let response = await fetch(site.url);
@@ -59,8 +72,6 @@ export class Sites extends Section {
                 })
             }
         }
-
-        return await this.build();
     }
 
     async build(){
@@ -71,6 +82,23 @@ export class Sites extends Section {
 
             const site = result.site;
             const time = result.time.toLocaleString(undefined, { maximumFractionDigits: 0 });
+            console.log(time);
+
+            if(site.extra_data && typeof site.extra_data === 'function'){
+
+                try {
+                    const extra = await site.extra_data();
+                    for(let [key, value] of Object.entries(extra)){
+                        console.log(`Replacing ${key} for ${site.name}`)
+                        site.name = site.name.replaceAll(`{{${key}}}`, value);
+                        site.description = site.description.replaceAll(`{{${key}}}`, value);
+                    }
+                }catch (e){
+                    console.error(e);
+                    site.description += `\n> ⚠️ **${e.message}**`
+                }
+
+            }
 
             if(!result.response){
                 replacements.push(`#### ${Sites.marks.error} ${site.name}\n\n${site.description}`);

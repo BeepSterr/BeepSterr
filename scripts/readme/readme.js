@@ -22,7 +22,8 @@ async function buildData(module_list){
 
     const data = {};
     for(let module_path of module_list){
-        let module = await import(path.join(sections_dir, module_path));
+        console.log(path.join(sections_dir, module_path));
+        let module = await import('file:///'+path.join(sections_dir, module_path));
         let Definition = Object.values(module)[0];
 
         let instance = new Definition();

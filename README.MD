@@ -19,7 +19,7 @@ My personal website
 A Q&A Website with a twist!
 #### [🟩 BlueSky Handle Registrar](https://barking.party)
 
-Claim a funny or neat bluesky handle from a set of my domains!
+Serving 44 profiles with custom BlueSky handles!
 
 ## Bobs
 ### [Awoo-industries/BetterKeepInventory](https://github.com/Awoo-industries/BetterKeepInventory)

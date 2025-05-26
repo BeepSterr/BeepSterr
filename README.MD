@@ -1,28 +1,27 @@
-## Hiya Traveler! 👋
-I'm Beeps. I Write stuff whenever I need it, Like [BetterKeepInventory](https://github.com/Awoo-Industries/BetterKeepInventory)
 
-## Web Services
-I host a couple of web services, Below you can see their status (Updated every ~10 Minutes)
+<p align="center">
+  <img width="250" src="/assets/wave.png">
+</p>
 
+<p align="center">
+    ➡️ <a href="https://leafcat.live/ttv">Twitch</a> |
+    <a href="https://leafcat.live/yt">YouTube</a> |
+    <a href="https://bsky.app/profile/did:plc:fuos6tklyozmefygjota4enw">BlueSky</a> |
+    <a href="https://leafcat.live/discord">Discord</a> ⬅️
+</p>
+
+## Things
 #### [🟩 Personal Website](https://beepsterr.com)
 
 My personal website
-#### [🟩 Awoo Industries](https://awoo.industries)
+#### [🟩 PictoASK!](https://pictoask.net)
 
-File sharing & Misc utilities
-#### [🟨 awoo.studio](https://awoo.studio) `522 - <none>`
+A Q&A Website with a twist!
+#### [🟩 BlueSky Handle Registrar](https://barking.party)
 
-Mastodon Instance
-#### 🟥 Feditester
+Claim a funny or neat bluesky handle from a set of my domains!
 
-Tool to test how federated your instance is
-#### [🟩 Lunega Custom Order](https://order.lunega.net)
-
-Tool to build your own custom version of my fursona~
-
-## Builds
-Builds for my Spigot plugins can be found below:
-
+## Bobs
 ### [Awoo-industries/BetterKeepInventory](https://github.com/Awoo-industries/BetterKeepInventory)
 
 Build unavailable...

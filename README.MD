@@ -19,7 +19,7 @@ My personal website
 A Q&A Website with a twist!
 #### [🟩 BlueSky Handle Registrar](https://barking.party)
 
-Serving 44 profiles with custom BlueSky handles!
+Serving 45 profiles with custom BlueSky handles!
 
 ## Bobs
 ### [Awoo-industries/BetterKeepInventory](https://github.com/Awoo-industries/BetterKeepInventory)

@@ -17,10 +17,9 @@ My personal website
 #### [🟩 PictoASK!](https://pictoask.net)
 
 A Q&A Website with a twist!
-#### [🟨 BlueSky Handle Registrar](https://barking.party) `521 - <none>`
+#### [🟩 BlueSky Handle Registrar](https://barking.party)
 
-Serving {{count}} profiles with custom BlueSky handles!
-> ⚠️ **Unexpected end of JSON input**
+Serving 44 profiles with custom BlueSky handles!
 
 ## Bobs
 ### [Awoo-industries/BetterKeepInventory](https://github.com/Awoo-industries/BetterKeepInventory)

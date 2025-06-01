@@ -17,10 +17,9 @@ My personal website
 #### [🟩 PictoASK!](https://pictoask.net)
 
 A Q&A Website with a twist!
-#### [🟨 BlueSky Handle Registrar](https://barking.party) `500 - Internal Server Error`
+#### [🟩 BlueSky Handle Registrar](https://barking.party)
 
-Serving {{count}} profiles with custom BlueSky handles!
-> ⚠️ **Unexpected token < in JSON at position 0**
+Serving 46 profiles with custom BlueSky handles!
 
 ## Bobs
 ### [Awoo-industries/BetterKeepInventory](https://github.com/Awoo-industries/BetterKeepInventory)

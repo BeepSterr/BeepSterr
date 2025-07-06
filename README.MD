@@ -17,7 +17,7 @@ My personal website
 #### [🟩 PictoASK!](https://pictoask.net)
 
 A Q&A Website with a twist!
-#### [🟨 BlueSky Handle Registrar](https://barking.party) `521 - <none>`
+#### [🟨 BlueSky Handle Registrar](https://barking.party) `502 - Bad Gateway`
 
 Serving {{count}} profiles with custom BlueSky handles!
 > ⚠️ **Unexpected token < in JSON at position 0**

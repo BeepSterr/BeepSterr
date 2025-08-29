@@ -24,7 +24,7 @@ Serving 58 profiles with custom BlueSky handles!
 ## Bobs
 ### [Awoo-industries/BetterKeepInventory](https://github.com/Awoo-industries/BetterKeepInventory)
 
-`an hour ago` [Download Build](https://github.com/Awoo-industries/BetterKeepInventory/suites/44433758213/artifacts/3881957214)
+`2 hours ago` [Download Build](https://github.com/Awoo-industries/BetterKeepInventory/suites/44433758213/artifacts/3881957214)
 ### [Awoo-industries/FiniteNetherite](https://github.com/Awoo-industries/FiniteNetherite)
 
 `a year ago` [Download Build](https://github.com/Awoo-industries/FiniteNetherite/suites/28161628705/artifacts/1910000936)

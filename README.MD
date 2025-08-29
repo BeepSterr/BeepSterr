@@ -17,14 +17,14 @@ My personal website
 #### [🟩 PictoASK!](https://pictoask.net)
 
 A Q&A Website with a twist!
-#### 🟥 BlueSky Handle Registrar
+#### [🟩 BlueSky Handle Registrar](https://barking.party)
 
 Serving 58 profiles with custom BlueSky handles!
 
 ## Bobs
 ### [Awoo-industries/BetterKeepInventory](https://github.com/Awoo-industries/BetterKeepInventory)
 
-`6 hours ago` [Download Build](https://github.com/Awoo-industries/BetterKeepInventory/suites/44433758213/artifacts/3881957214)
+`7 hours ago` [Download Build](https://github.com/Awoo-industries/BetterKeepInventory/suites/44433758213/artifacts/3881957214)
 ### [Awoo-industries/FiniteNetherite](https://github.com/Awoo-industries/FiniteNetherite)
 
 `a year ago` [Download Build](https://github.com/Awoo-industries/FiniteNetherite/suites/28161628705/artifacts/1910000936)

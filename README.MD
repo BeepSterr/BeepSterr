@@ -11,7 +11,7 @@
 </p>
 
 ## Things
-#### [🟩 Personal Website](https://beepsterr.com)
+#### 🟥 Personal Website
 
 My personal website
 #### [🟩 PictoASK!](https://pictoask.net)

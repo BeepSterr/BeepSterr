@@ -17,7 +17,7 @@ My personal website
 #### [🟩 PictoASK!](https://pictoask.net)
 
 A Q&A Website with a twist!
-#### [🟨 BlueSky Handle Registrar](https://barking.party) `522 - <none>`
+#### [🟩 BlueSky Handle Registrar](https://barking.party)
 
 Serving 60 profiles with custom BlueSky handles!
 

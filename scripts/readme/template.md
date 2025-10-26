@@ -10,12 +10,12 @@
     <a href="https://leafcat.live/discord">Discord</a> ⬅️
 </p>
 
-## Things
+## Web Projects
 {{#each Sites}}
 {{this}}
 {{/each}}
 
-## Bobs
+## Releases
 {{#each Builds}}
 {{this}}
 {{/each}}

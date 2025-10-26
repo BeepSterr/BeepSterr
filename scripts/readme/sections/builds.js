@@ -9,51 +9,49 @@ export class Builds extends Section {
     static repos = [
         {
             owner: 'BeepSterr',
-            repo: 'BetterKeepInventory',
-            workflow_id: "build_release.yml"
-        },
-        {
-            owner: 'BeepSterr',
-            repo: 'FiniteNetherite',
-            workflow_id: "build.yml"
+            repo: 'BetterKeepInventory'
         }
     ];
 
 
-    getArtifactUrl(repo, run, id){
-        return
+    getArtifactUrl(repo, release, asset){
+        // If an asset is present return its browser download url, otherwise fall back to the release page
+        if(asset && asset.browser_download_url) return asset.browser_download_url;
+        if(release && release.html_url) return release.html_url;
+        return `https://github.com/${repo.owner}/${repo.repo}`;
     }
 
     async getReplacementContext() {
 
         const builds = [];
         for(let repo of Builds.repos){
+            const repo_id = `${repo.owner}/${repo.repo}`;
+            const repo_url = `https://github.com/${repo.owner}/${repo.repo}`;
 
-            const response_run = await Builds.octokit.rest.actions.listWorkflowRunsForRepo({
-                ...repo,
-                per_page: 1
-            });
+            try{
+                const response = await Builds.octokit.rest.repos.getLatestRelease({ ...repo });
+                const release = response.data;
 
-            const response_artifact = await Builds.octokit.rest.actions.listWorkflowRunArtifacts({
-                ...repo,
-                per_page: 1,
-                run_id: response_run.data.workflow_runs[0].id
-            });
+                // pick a downloadable asset if available
+                const asset = (release.assets && release.assets.length > 0) ? release.assets[0] : null;
+                const artifact_url = this.getArtifactUrl(repo, release, asset);
+                const time_of_release = release.published_at ? moment(release.published_at).fromNow() : 'Unknown time';
 
-            const repo_id = `${repo.owner}/${repo.repo}`
-            const repo_url = `https://github.com/${repo.owner}/${repo.repo}`
-            
-            const run = response_run.data.workflow_runs[0];
-            const artifact = response_artifact.data.artifacts[0];
-            
-            if(run && artifact){
-                const artifact_url = `${repo_url}/suites/${run.check_suite_id}/artifacts/${artifact.id}`
-                const time_of_build = moment(artifact.created_at).fromNow();
-                builds.push(`### [${repo_id}](${repo_url})\n\n\`${time_of_build}\` [Download Build](${artifact_url})`)
-            }else{
-                builds.push(`### [${repo_id}](${repo_url})\n\n\Build unavailable...`)
+                const downloadText = asset ? `
+\n\`${time_of_release}\` [Download ${asset.name}](${artifact_url})` : `\n\`${time_of_release}\` [View Release](${artifact_url})`;
+
+                builds.push(`### [${repo_id}](${repo_url})${downloadText}`);
+
+            }catch(err){
+                // 404 = no releases
+                if(err && err.status === 404){
+                    console.warn("No releases found for ", repo);
+                    builds.push(`### [${repo_id}](${repo_url})\n\nNo releases available.`)
+                }else{
+                    console.error(err);
+                    builds.push(`### [${repo_id}](${repo_url})\n\nRelease information unavailable.`)
+                }
             }
-
 
         }
 

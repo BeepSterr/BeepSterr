@@ -4,28 +4,28 @@
 </p>
 
 <p align="center">
-    ➡️ <a href="https://leafcat.live/ttv">Twitch</a> |
-    <a href="https://leafcat.live/yt">YouTube</a> |
+    ➡️ <a href="https://pooltoy.media/twitch">Twitch</a> |
+    <a href="https://pooltoy.media/yt">YouTube</a> |
     <a href="https://bsky.app/profile/did:plc:fuos6tklyozmefygjota4enw">BlueSky</a> |
     <a href="https://leafcat.live/discord">Discord</a> ⬅️
 </p>
 
-## Things
-#### [🟩 Personal Website](https://beepsterr.com)
+## Web Projects
+#### [🟩 Website](https://pooltoy.media)
 
-My personal website
+My Website, lists all my projects and links!
 #### [🟩 PictoASK!](https://pictoask.net)
 
 A Q&A Website with a twist!
+#### [🟩 FediReach](https://fedireach.beepsterr.com/)
+
+Showcase for the Mastodon DDOS Effect
 #### [🟩 BlueSky Handle Registrar](https://barking.party)
 
 Serving 63 profiles with custom BlueSky handles!
 
-## Bobs
-### [Awoo-industries/BetterKeepInventory](https://github.com/Awoo-industries/BetterKeepInventory)
+## Releases
+### [BeepSterr/BetterKeepInventory](https://github.com/BeepSterr/BetterKeepInventory)
 
-Build unavailable...
-### [Awoo-industries/FiniteNetherite](https://github.com/Awoo-industries/FiniteNetherite)
-
-`a year ago` [Download Build](https://github.com/Awoo-industries/FiniteNetherite/suites/28161628705/artifacts/1910000936)
+`23 days ago` [Download BetterKeepInventory-2.1.0.jar](https://github.com/BeepSterr/BetterKeepInventory/releases/download/v2.1.0/BetterKeepInventory-2.1.0.jar)
 

@@ -12,10 +12,10 @@ export class Sites extends Section {
     static list = [
 
         {
-            url: "https://leafcat.live",
-            name: "Personal Website",
-            description: "My personal website",
-            link: "https://beepsterr.com"
+            url: "https://pooltoy.media",
+            name: "Website",
+            description: "My Website, lists all my projects and links!",
+            link: "https://pooltoy.media"
         },
 
         {
@@ -23,6 +23,13 @@ export class Sites extends Section {
             name: "PictoASK!",
             description: "A Q&A Website with a twist!",
             link: "https://pictoask.net"
+        },
+
+        {
+            url: "https://fedireach.beepsterr.com/",
+            name: "FediReach",
+            description: "Showcase for the Mastodon DDOS Effect",
+            link: "https://fedireach.beepsterr.com/"
         },
 
         {

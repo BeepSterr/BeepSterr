@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-    ➡️ <a href="https://leafcat.live/ttv">Twitch</a> |
-    <a href="https://leafcat.live/yt">YouTube</a> |
+    ➡️ <a href="https://pooltoy.media/twitch">Twitch</a> |
+    <a href="https://pooltoy.media/yt">YouTube</a> |
     <a href="https://bsky.app/profile/did:plc:fuos6tklyozmefygjota4enw">BlueSky</a> |
     <a href="https://leafcat.live/discord">Discord</a> ⬅️
 </p>

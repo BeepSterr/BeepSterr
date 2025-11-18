@@ -20,7 +20,7 @@ A Q&A Website with a twist!
 #### [🟩 FediReach](https://fedireach.beepsterr.com/)
 
 Showcase for the Mastodon DDOS Effect
-#### 🟥 BlueSky Handle Registrar
+#### [🟩 BlueSky Handle Registrar](https://barking.party)
 
 Serving 71 profiles with custom BlueSky handles!
 

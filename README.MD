@@ -11,18 +11,19 @@
 </p>
 
 ## Web Projects
-#### [🟩 Website](https://pooltoy.media)
+#### [🟨 Website](https://pooltoy.media) `500 - Internal Server Error`
 
 My Website, lists all my projects and links!
-#### [🟩 PictoASK!](https://pictoask.net)
+#### [🟨 PictoASK!](https://pictoask.net) `500 - Internal Server Error`
 
 A Q&A Website with a twist!
-#### [🟩 FediReach](https://fedireach.beepsterr.com/)
+#### [🟨 FediReach](https://fedireach.beepsterr.com/) `500 - Internal Server Error`
 
 Showcase for the Mastodon DDOS Effect
-#### [🟩 BlueSky Handle Registrar](https://barking.party)
+#### [🟨 BlueSky Handle Registrar](https://barking.party) `500 - Internal Server Error`
 
-Serving 71 profiles with custom BlueSky handles!
+Serving {{count}} profiles with custom BlueSky handles!
+> ⚠️ **Unexpected token < in JSON at position 0**
 
 ## Releases
 ### [BeepSterr/BetterKeepInventory](https://github.com/BeepSterr/BetterKeepInventory)

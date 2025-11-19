@@ -17,10 +17,10 @@ My Website, lists all my projects and links!
 #### [🟩 PictoASK!](https://pictoask.net)
 
 A Q&A Website with a twist!
-#### [🟨 FediReach](https://fedireach.beepsterr.com/) `522 - <none>`
+#### [🟩 FediReach](https://fedireach.beepsterr.com/)
 
 Showcase for the Mastodon DDOS Effect
-#### [🟨 BlueSky Handle Registrar](https://barking.party) `522 - <none>`
+#### [🟩 BlueSky Handle Registrar](https://barking.party)
 
 Serving 72 profiles with custom BlueSky handles!
 

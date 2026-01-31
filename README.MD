@@ -26,5 +26,5 @@ Serving 79 profiles with custom BlueSky handles!
 
 ## Releases
 ### [BeepSterr/BetterKeepInventory](https://github.com/BeepSterr/BetterKeepInventory)
-`an hour ago` [View Release](https://github.com/BeepSterr/BetterKeepInventory/releases/tag/v2.2.0)
+`2 hours ago` [View Release](https://github.com/BeepSterr/BetterKeepInventory/releases/tag/v2.2.0)
 

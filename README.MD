@@ -14,13 +14,13 @@
 #### [🟩 Website](https://pooltoy.media)
 
 My Website, lists all my projects and links!
-#### 🟥 PictoASK!
+#### [🟩 PictoASK!](https://pictoask.net)
 
 A Q&A Website with a twist!
 #### [🟩 FediReach](https://fedireach.beepsterr.com/)
 
 Showcase for the Mastodon DDOS Effect
-#### [🟩 BlueSky Handle Registrar](https://barking.party)
+#### 🟥 BlueSky Handle Registrar
 
 Serving 84 profiles with custom BlueSky handles!
 

@@ -22,7 +22,7 @@ A Q&A Website with a twist!
 Showcase for the Mastodon DDOS Effect
 #### [🟩 BlueSky Handle Registrar](https://barking.party)
 
-Serving 84 profiles with custom BlueSky handles!
+Serving 85 profiles with custom BlueSky handles!
 
 ## Releases
 ### [BeepSterr/BetterKeepInventory](https://github.com/BeepSterr/BetterKeepInventory)
